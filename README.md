@@ -10,7 +10,7 @@ A database-driven system designed to manage vehicle inventory, sales transaction
 - Advanced SQL queries for business insights
 
 ## Technologies Used
-- SQL (MySQL / PostgreSQL)
+- SQL (MySQL)
 - Stored Procedures
 - Triggers
 - Views
@@ -29,11 +29,4 @@ A database-driven system designed to manage vehicle inventory, sales transaction
 - Customer service history
 - Revenue analysis
 
-## How to Run
-1. Run `schema.sql`
-2. Run `sample_data.sql`
-3. Execute queries from `queries.sql`
-
-## Screenshots
-(ER diagram and query outputs included)
 

@@ -1,5 +1,5 @@
 # Car Dealership Management System (SQL)
-02/13/2026 - 03/13/2026
+02/18/2026 - 03/13/2026
 A database-driven system designed to manage vehicle inventory, sales transactions, customers, and service records for a car dealership.
 
 ## Features

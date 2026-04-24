@@ -1,5 +1,6 @@
 # Car Dealership Management System 
 Note: soon more updates and features
+
 A database-driven system designed to manage vehicle inventory, sales transactions, customers, and service records for a car dealership.
 
 ## Features

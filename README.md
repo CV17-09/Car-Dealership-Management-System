@@ -172,17 +172,6 @@ This diagram shows the relationships between all major entities in the system.
 
 ---
 
-## 💼 Resume Description
-
-**Car Dealership Management System**
-
-* Designed and implemented a relational database using MySQL to manage inventory, customers, sales, and service records
-* Developed SQL triggers and stored procedures to automate workflows and enforce business rules
-* Created complex queries for revenue analysis, customer insights, and sales trends
-* Structured normalized database schema with strong relational integrity
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.

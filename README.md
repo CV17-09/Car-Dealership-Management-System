@@ -166,8 +166,8 @@ This diagram shows the relationships between all major entities in the system.
 
 * Build a web interface (React + Node.js)
 * Add authentication and role-based access
-* Integrate dashboards (Power BI or Tableau)
-* Deploy using a cloud database (AWS RDS / Azure SQL)
+* Integrate dashboards (Tableau)
+* Deploy using a cloud database (AWS RDS)
 * Add real-time analytics features
 
 ---

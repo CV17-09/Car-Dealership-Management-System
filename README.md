@@ -278,18 +278,6 @@ SOURCE sql/triggers.sql;
 
 ---
 
-# 🗺️ Entity Relationship Diagram (ERD)
-
-The Entity Relationship Diagram illustrates how all database tables are connected through primary and foreign key relationships.
-
-> **Add your ERD image here**
-
-```text
-docs/erd.png
-```
-
----
-
 # 📊 Business Insights
 
 The database enables analysis such as:

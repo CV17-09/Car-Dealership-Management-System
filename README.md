@@ -25,7 +25,7 @@ The project demonstrates how SQL can be used not only to store data but also to 
 
 # 💡 Why This Project?
 
-Car dealerships manage large volumes of interconnected data every day. Efficient database design is essential for maintaining accurate records and supporting business operations.
+Under Review - Car dealerships manage large volumes of interconnected data every day. Efficient database design is essential for maintaining accurate records and supporting business operations.
 
 This project was built to demonstrate how relational databases can:
 

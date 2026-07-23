@@ -6,7 +6,7 @@
 
 # 🚀 Overview
 
-The **Car Dealership Management System** is a database-driven application that models the day-to-day operations of an automotive dealership. It centralizes information about vehicles, customers, employees, sales, and service history while maintaining data integrity through relational database principles.
+Under Revview - The **Car Dealership Management System** is a database-driven application that models the day-to-day operations of an automotive dealership. It centralizes information about vehicles, customers, employees, sales, and service history while maintaining data integrity through relational database principles.
 
 The project demonstrates how SQL can be used not only to store data but also to automate workflows, enforce business rules, and generate valuable business insights.
 
